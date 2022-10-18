@@ -1,0 +1,20 @@
+/*.App {
+  text-align: center;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+  
+}*/
+
+.navbar .navbar-brand{
+  color:#ffffff;
+  font-size: xx-large;
+}
+.navbar .navbar-brand:hover{
+  color:#ffffff;
+  
+}
+.heading{
+  color:blue;
+  text-align: center;
+}
